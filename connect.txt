@@ -1,0 +1,1 @@
+mongodb+srv://safe32785:Nongsafe32785@cluster0.gjhysqb.mongodb.net/
