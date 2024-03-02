@@ -1,0 +1,24 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: #b6b6b6;
+}
+
+.Container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+
+.ArrowLeft {
+    margin-top: 10px;
+    margin-left: 20px;
+    font-size: 28px;
+    color: #16391E;
+    cursor: pointer;
+    text-align: left;
+}
